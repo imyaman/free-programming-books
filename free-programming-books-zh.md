@@ -10,6 +10,7 @@
 * [C](#c)
 * [C++](#c-1)
 * [CoffeeScript](#coffeescript)
+* [Elasticsearch](#elasticsearch)
 * [Erlang](#erlang)
 * [Fortran](#fortran)
 * [Golang](#golang)
@@ -106,6 +107,8 @@
 * [CoffeeScript 中文手册](http://island205.github.io/tlboc/) (《The Little Book on CoffeeScript》中文版)
 * [CoffeeScript 编程风格指南](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
 
+### Elasticsearch
+* [Elasticsearch 权威指南](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
 
 ### Erlang
 * [Erlang 并发编程](https://github.com/liancheng/cpie-cn) (《Concurrent Programming in Erlang (Part I)》中文版)
@@ -173,7 +176,7 @@
 
 ### PHP
 * [深入理解 PHP 内核](http://www.php-internals.com/book/)
-* [PHP5中文手册](http://php.jz123.cn/)
+* [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
 

@@ -25,10 +25,12 @@
     * [node.js](#nodejs)
 * [Java](#java)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
     * [MongoDB](#mongodb)
 * [PHP](#php)
+* [Perl] (#perl)
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
@@ -187,6 +189,9 @@
 
 ### Linux
 * [Debian GNU/Linux para administradores] (http://debian-handbook.info/browse/es-ES/stable/)
+* [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
+* [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
+* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
 
 ### .NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
@@ -204,6 +209,15 @@
 * [Silex, el manual oficial](http://librosweb.es/silex/)
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/symfony_1_4/)
 * [Symfony 2.3, el libro oficial](http://librosweb.es/symfony_2_3/)
+* [PHP y Ajax](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf)
+
+
+### Perl
+* [Tutoriales de Perl](http://perlenespanol.com/tutoriales/)
+* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf), por Universidad de Magallanes, Chile (PDF)
+* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf), por TLDP (PDF)
+* [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm), por Universidad de Granada, España
+* [Manual de Perl](http://www6.uniovi.es/perl/tutor/), por Universidad de Oviedo, España
 
 
 ### Python

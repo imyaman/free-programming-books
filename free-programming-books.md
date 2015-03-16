@@ -375,6 +375,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
 * [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
+* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
 * [Linear Algebra: An Introduction to Mathematical Discourse](http://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
 * [Linear Algebra, Theory And Applications](http://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler
@@ -554,7 +555,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
 * [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)
-
+* [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 
 #### Software Architecture
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
@@ -604,6 +605,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html) - Shriram Krishnamurthi
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
 * [Programming Languages: Application and Interpretation (2nd Edition)](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
+* [Semantics with Applications: A Formal Introduction](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.html) - Hanne Riis Nielson, Flemming Nielson
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
@@ -639,6 +641,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Styling Android](http://www.stylingandroid.com/)
 * [TechnoTalkative Android](http://www.technotalkative.com/android/)
+* [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
 
 
 ### APL
@@ -774,6 +777,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
+* [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
 ### Chapel
 * [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
@@ -987,6 +991,7 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh
+* [Introduction to Haskell](http://www.seas.upenn.edu/~cis194/spring13/) - Brent Yorgey
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Haskell no panic](http://lisperati.com/haskell/)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
@@ -1061,7 +1066,6 @@ Original Source: [Free Programming books](http://stackoverflow.com/revisions/392
 
 ### Java
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman
-* [Agile Java](http://www.langrsoft.com/ftp/agileJava/) - Jeff Langr
 * [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
@@ -1506,6 +1510,7 @@ See also [TeX](#tex)
 * [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner
+* [Problem Solving with Algorithms and Data Structure using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/) (3.3)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
 * [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
@@ -1817,6 +1822,7 @@ See also [LaTeX](#latex)
 
 
 ### Unix
+* [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
